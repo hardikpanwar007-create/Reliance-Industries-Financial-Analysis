@@ -56,7 +56,7 @@ Analysing Reliance Industries Limited across FY2021-FY2025. Covering Income Stat
 ## Risks Identified
 
 - Margin compression from commodity price volatility in the O2C segment
-- Borrowings increased from ₹2,78,962 Cr → ₹3,74,313 Cr over 5 years
+- Borrowings increased from ₹2,78,962 Cr to ₹3,74,313 Cr over 5 years
 - Regulatory risk in Jio's telecom operations
 - Execution risk in New Energy — early stage, unproven returns
 
@@ -74,21 +74,13 @@ Analysing Reliance Industries Limited across FY2021-FY2025. Covering Income Stat
 
 Reliance Industries represents a unique convergence of energy, digital and consumer businesses. The company is transitioning from commodity-driven O2C to high-margin consumer segments while investing in New Energy for long-term growth. With improving FCF, rising ROCE and strong cash generation, Reliance is well-positioned for sustainable value creation. Key risks include O2C margin volatility and rising debt from ongoing capex commitments.
 
----
-
-## Tools Used
-
-|------|---------|
-| Microsoft Excel | Financial modelling, ratio analysis, dashboard |
-| Screener.in | Primary data source — P&L, Balance Sheet, Cash Flow |
-| Reliance Annual Reports | Segment data & qualitative insights |
 
 ---
 
 
 ## Data Sources
 
-- **Screener.in** — P&L, Balance Sheet, Cash Flow, Key Ratios
+- **Screener.in** - P&L, Balance Sheet, Cash Flow, Key Ratios
 
 
 ---
