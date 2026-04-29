@@ -34,7 +34,7 @@ Analysing Reliance Industries Limited across FY2021-FY2025. Covering Income Stat
 
 | Operating CF (₹ Cr) | 26,958 | 1,78,703 | 60.4% |
 
-| Free Cash Flow (₹ Cr) | -1,15,427 | 41,168 | — |
+| Free Cash Flow (₹ Cr) | -1,15,427 | 41,168 | - |
 
 | ROCE | 9% | 11% | - |
 
