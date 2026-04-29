@@ -11,10 +11,15 @@ Analysing Reliance Industries Limited across FY2021-FY2025. Covering Income Stat
 ### Six Sheet Model Structure
 
 | Cover | Company overview, model details |
+
 | Income Statement | 5-year P&L with growth rates & CAGR |
+
 | Balance Sheet | Assets, liabilities, equity & efficiency ratios |
+
 | Cash Flow | Operating, investing & financing cash flows + FCF |
+
 | Ratio Analysis | 20+ financial ratios across profitability, leverage & valuation |
+
 | Dashboard | Visual KPI summary with 4 Excel charts |
 
 ---
@@ -22,11 +27,17 @@ Analysing Reliance Industries Limited across FY2021-FY2025. Covering Income Stat
 ## Financial Summary
 
 | Revenue (₹ Cr) | 4,66,307 | 9,62,820 | 19.8% |
+
 | EBITDA (₹ Cr) | 1,07,362 | 2,18,734 | 19.4% |
+
 | Net Profit (₹ Cr) | 49,128 | 69,648 | 9.1% |
+
 | Operating CF (₹ Cr) | 26,958 | 1,78,703 | 60.4% |
+
 | Free Cash Flow (₹ Cr) | -1,15,427 | 41,168 | — |
+
 | ROCE | 9% | 11% | — |
+
 | P/E Ratio | 23.7x | 24.8x | — |
 
 ---
