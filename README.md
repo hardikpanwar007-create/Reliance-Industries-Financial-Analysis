@@ -1,4 +1,4 @@
-# Reliance Industries - # 3 Statement Model
+# Reliance Industries - 3 Statement Model
 
 ---
 
