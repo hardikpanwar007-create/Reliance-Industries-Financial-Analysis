@@ -36,9 +36,9 @@ Analysing Reliance Industries Limited across FY2021-FY2025. Covering Income Stat
 
 | Free Cash Flow (₹ Cr) | -1,15,427 | 41,168 | — |
 
-| ROCE | 9% | 11% | — |
+| ROCE | 9% | 11% | - |
 
-| P/E Ratio | 23.7x | 24.8x | — |
+| P/E Ratio | 23.7x | 24.8x | - |
 
 ---
 
@@ -58,7 +58,7 @@ Analysing Reliance Industries Limited across FY2021-FY2025. Covering Income Stat
 - Margin compression from commodity price volatility in the O2C segment
 - Borrowings increased from ₹2,78,962 Cr to ₹3,74,313 Cr over 5 years
 - Regulatory risk in Jio's telecom operations
-- Execution risk in New Energy — early stage, unproven returns
+- Execution risk in New Energy - early stage, unproven returns
 
 ---
 
